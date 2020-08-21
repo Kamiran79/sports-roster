@@ -1,26 +1,26 @@
 {
   "player1": {
-    "uid": "g9mafEXLpiNQ83gs1hqE7DQMnRv1",
-    "playerTitle": "Furniture",
-    "playerName": "John",
-    "imgURL": "https://somthing"
+    "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
+    "position": "Furniture",
+    "name": "John",
+    "imageUrl": "https://somthing"
   },
   "player2": {
-    "uid": "g9mafEXLpiNQ83gs1hqE7DQMnRv1",
-    "playerTitle": "Second player",
-    "playerName": "John",
-    "imgURL": "https://somthing"    
+    "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
+    "position": "Second player",
+    "name": "John",
+    "imageUrl": "https://somthing"    
   },
   "player3": {
     "uid": "7333717",
-    "playerTitle": "player title goes here",
-    "playerName": "John",
-    "imgURL": "https://somthing"    
+    "position": "player title goes here",
+    "name": "John",
+    "imageUrl": "https://somthing"    
   },
   "player4": {
     "uid": "84444818",
-    "playerTitle": "player title goes here",
-    "playerName": "John",
-    "imgURL": "https://somthing"    
+    "position": "player title goes here",
+    "name": "John",
+    "imageUrl": "https://somthing"    
   }    
 }
