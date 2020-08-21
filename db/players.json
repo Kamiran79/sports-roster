@@ -1,0 +1,26 @@
+{
+  "player1": {
+    "uid": "g9mafEXLpiNQ83gs1hqE7DQMnRv1",
+    "playerTitle": "Furniture",
+    "playerName": "John",
+    "imgURL": "https://somthing"
+  },
+  "player2": {
+    "uid": "g9mafEXLpiNQ83gs1hqE7DQMnRv1",
+    "playerTitle": "Second player",
+    "playerName": "John",
+    "imgURL": "https://somthing"    
+  },
+  "player3": {
+    "uid": "7333717",
+    "playerTitle": "player title goes here",
+    "playerName": "John",
+    "imgURL": "https://somthing"    
+  },
+  "player4": {
+    "uid": "84444818",
+    "playerTitle": "player title goes here",
+    "playerName": "John",
+    "imgURL": "https://somthing"    
+  }    
+}
