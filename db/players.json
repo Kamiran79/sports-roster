@@ -1,23 +1,53 @@
 {
   "player1": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
-    "position": "Furniture",
+    "position": "Offensive",
     "name": "John",
     "imageUrl": "https://somthing"
   },
   "player2": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
-    "position": "Second player",
-    "name": "John",
+    "position": "Offensive",
+    "name": "Jony",
     "imageUrl": "https://somthing"    
   },
   "player3": {
+    "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
+    "position": "Offensive",
+    "name": "Blake",
+    "imageUrl": "https://somthing"    
+  },
+  "player4": {
+    "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
+    "position": "Middle",
+    "name": "Ronaldo",
+    "imageUrl": "https://somthing"    
+  },
+  "player5": {
+    "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
+    "position": "Middle",
+    "name": "Missie",
+    "imageUrl": "https://somthing"    
+  },
+  "player6": {
+    "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
+    "position": "Middle",
+    "name": "Zidan",
+    "imageUrl": "https://somthing"    
+  },
+  "player7": {
+    "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
+    "position": "Deffensive",
+    "name": "Rony",
+    "imageUrl": "https://somthing"    
+  },
+  "player20": {
     "uid": "7333717",
     "position": "player title goes here",
     "name": "John",
     "imageUrl": "https://somthing"    
   },
-  "player4": {
+  "player40": {
     "uid": "84444818",
     "position": "player title goes here",
     "name": "John",

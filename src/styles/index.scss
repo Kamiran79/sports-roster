@@ -4,5 +4,26 @@
 @import 'variables';
 
 body {
-  background-color: $favColor;
+  /* background-color: $favColor; */
+  background-image: url('https://www.azutura.com/media/catalog/product/cache/47/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-44871_WP.jpg');
+  /* background-repeat: no-repeat; */
+  /* background-size: 100% 100%; */
+  background-size: contain;
 }
+
+/*
+* it is 3 d soccer field nice one
+https://ak.picdn.net/shutterstock/videos/1011844370/thumb/1.jpg
+
+** this is full staduim vertical display for the field 08-23
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Boisko.svg/1200px-Boisko.svg.png
+
+** this is the grass was there:
+https://www.azutura.com/media/catalog/product/cache/47/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-44871_WP.jpg
+
+** field veitical
+https://i.pinimg.com/originals/5a/95/ba/5a95ba1dfc7b32f93802de9702bdac4e.jpg
+
+https://image.freepik.com/free-photo/3d-rendering-soccer-ball-with-line-soccer-field_41667-276.jpg
+
+*/

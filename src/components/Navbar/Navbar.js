@@ -21,8 +21,10 @@ class Navbar extends React.Component {
   render() {
     const { authed } = this.props;
     return (
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a className="navbar-brand" href="/"><sup>Manchester</sup> | <sub>FC</sub></a>
+      <nav className="navbar navbar-expand-lg navbar-dark navbar_back">
+        {/* <a className="navbar-brand" href="/"><sup>Manchester</sup> | <sub>FC</sub></a> */}
+        {/* dark logo https://i.pinimg.com/originals/15/6d/13/156d1366a38cf53362497a52d6568a06.jpg */}
+        <img className="navbar_logo" src="https://thumbs.gfycat.com/AcceptableWaterloggedIcelandichorse-small.gif" alt="manchester united"></img>
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
             {
