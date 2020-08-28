@@ -2,6 +2,8 @@ import React from 'react';
 
 import playerShape from '../../helpers/propz/playerShape';
 
+import './players.scss';
+
 class Players extends React.Component {
   static propTypes = {
     player: playerShape.playerShape,
@@ -11,7 +13,7 @@ class Players extends React.Component {
     const { player } = this.props;
 
     return (
-      <div className="card text-center">
+      <div className="card text-center m-2">
         <div className="card-header"><h5>{player.name}</h5></div>
         <div className="card-body">
           <p className="card-title">{player.position}</p>
