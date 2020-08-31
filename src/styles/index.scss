@@ -2,14 +2,48 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 @import 'variables';
-
+/*
 body {
   /* background-color: $favColor; */
-  background-image: url('https://www.azutura.com/media/catalog/product/cache/47/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-44871_WP.jpg');
+  /* background-image: url('https://www.azutura.com/media/catalog/product/cache/47/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-44871_WP.jpg'); */
   /* background-repeat: no-repeat; */
   /* background-size: 100% 100%; */
-  background-size: contain;
+  /* background-size: contain; 
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+
+  /* background: #16384c; */
+  background: #222;
+  min-height: 100vh;
+}
+
+/*
+@media (max-width: 576px) {
+  .container, .container-sm {
+    max-width: 540px;
+  }
+}
+*/
+
 
 /*
 * it is 3 d soccer field nice one
