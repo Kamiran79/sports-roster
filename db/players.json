@@ -2,44 +2,48 @@
   "player1": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
     "position": "Offensive",
-    "name": "John",
-    "imageUrl": "https://somthing"
+    "name": "DAVID DE GEA",
+    "imageUrl": "https://assets.manutd.com/AssetPicker/images/0/0/14/2/918270/Treated_Player_Profile_Thumbnail_De_Gea_11596552965008.jpg"
   },
   "player2": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
-    "position": "Offensive",
-    "name": "Jony",
-    "imageUrl": "https://somthing"    
+    "position": "Forward",
+    "name": "ODION IGHALO",
+    "imageUrl": "https://assets.manutd.com/AssetPicker/images/0/0/14/2/918259/Treated_Player_Profile_Thumbnail_Ighalo1596553393993.jpg"    
   },
   "player3": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
-    "position": "Offensive",
-    "name": "Blake",
-    "imageUrl": "https://somthing"    
+    "position": "Forward",
+    "name": "TAHITH CHONG",
+    "imageUrl": "https://i.pinimg.com/736x/17/78/f9/1778f9efa016389b310d9b63c185cdf1.jpg",
+    "country": "Netherlands",
+    "DOB": "Dec 14 1999",
+    "about": "Character is important and I've just got to keep working hard and doing my job. I'll take it game by game.",
+    "biography": "With his shaggy hair and athletic nature, Tahith Chong cuts an imposing figure and his move to Manchester United certainly got everybody talking about the Dutch youngster."
   },
   "player4": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
     "position": "Middle",
     "name": "Ronaldo",
-    "imageUrl": "https://somthing"    
+    "imageUrl": "https://assets.manutd.com/AssetPicker/images/0/0/12/59/801606/Charlie_Wellens-11563186141346.jpg"
   },
   "player5": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
     "position": "Middle",
     "name": "Missie",
-    "imageUrl": "https://somthing"    
+    "imageUrl": "https://assets.manutd.com/AssetPicker/images/0/0/12/59/801636/Martin_Svidersky-11563187813713_thumb.jpg"    
   },
   "player6": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
     "position": "Middle",
     "name": "Zidan",
-    "imageUrl": "https://somthing"    
+    "imageUrl": "https://assets.manutd.com/AssetPicker/images/0/0/12/59/801635/Mark_Helm-31563187670279.jpg"    
   },
   "player7": {
     "uid": "9DtCHrDLzJaKJB7v6F5En0730Gl1",
     "position": "Deffensive",
     "name": "Rony",
-    "imageUrl": "https://somthing"    
+    "imageUrl": "https://assets.manutd.com/AssetPicker/images/0/0/12/59/801648/Oliver_Denham-11563188357267.jpg"    
   },
   "player20": {
     "uid": "7333717",
